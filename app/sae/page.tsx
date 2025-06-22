@@ -17,14 +17,21 @@ export default function SAEPage() {
       link: "/sae/page"  
     },
     {
-      title: "SAÉ-201- Conception et implémentation d’une base de données",
+      title: "SAÉ-201 - Conception et implémentation d’une base de données",
       description: "Durée : 1 mois",
-      skills: ["Développer", "Concevoir"],
+      skills: ["Développer"],
       tools: ["SQL", "Access", "Looping"],
       category: "pro",
       link: "/projection/page"
     },
-  
+    {
+      title: "SAÉ 4-02 - Reporting d'une analyse multivariée",
+      description: "Durée : 1 mois",
+      skills: ["Traiter", "Analyser","Valoriser"],
+      tools: ["R Studio",],
+      category: "pro",
+      link: "/contact/page"  
+    },
     {
       title: "Création d'un Bot discord",
       description: "Robot pour la sécurisation d'un serveur personnel hebergé en local",

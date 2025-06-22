@@ -5,7 +5,7 @@ export default function Page1() {
 
       <section className="mb-8">
         <p>
-          Cette SAE s’inscrit pleinement dans le développement des compétences attendues au premier semestre du BUT Science des Données :
+          Cette SAE s’inscrit pleinement dans le développement des compétences attendues au deuxième semestre du BUT Science des Données :
         </p>
         <ul className="list-disc list-inside mt-4 space-y-1">
           <li><strong>Compétence 1 :</strong> Collecter et traiter les données (traiter)</li>
@@ -35,7 +35,7 @@ export default function Page1() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-2">Liens entre compétences et réalisation</h2>
         <p>
-          Durant ce projet, j’ai consolidé ma maîtrise des outils  informatiques. J’ai notamment approfondi :
+          Durant ce projet, j’ai consolidé ma maîtrise des compétences de developpement informatiques. J’ai notamment approfondi :
         </p>
         <ul className="list-disc list-inside mt-4 space-y-1">
           <li><strong>SQL</strong>, pour la importation des données sur Access</li>

@@ -1,11 +1,11 @@
 export default function Page1() {
   return (
     <div className="container mx-auto p-8 text-white">
-      <h1 className="text-4xl font-bold mb-6">SAE 2.06– Analyse de données, reporting et datavisualisation</h1>
+      <h1 className="text-4xl font-bold mb-6">SAE 2.06 – Analyse de données, reporting et datavisualisation</h1>
 
       <section className="mb-8">
         <p>
-          Cette SAE s’inscrit pleinement dans le développement des compétences attendues au premier semestre du BUT Science des Données, notamment :
+          Cette SAE s’inscrit pleinement dans le développement des compétences attendues au dexuième semestre du BUT Science des Données, notamment :
         </p>
         <ul className="list-disc list-inside mt-4 space-y-1">
           <li><strong>Compétence 1 :</strong> Collecter et traiter les données (traiter)</li>
@@ -37,7 +37,7 @@ export default function Page1() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-2">Liens entre compétences et réalisation</h2>
         <p>
-          Durant ce projet, j’ai consolidé ma maîtrise des outils statistiques et informatiques. J’ai notamment approfondi :
+          Durant ce projet, j’ai consolidé ma maîtrise au niveau du developpement informatique mais aussi des compétences autour de l'analyse statistique avec l'apprentissage de l'importance d'utiliser un modèle statistique pour la réalisation d'un outil pertinent.
         </p>
         <ul className="list-disc list-inside mt-4 space-y-1">
           <li><strong>Power BI</strong>, pour la visualisation et l’interactivité des tableaux de bord</li>
